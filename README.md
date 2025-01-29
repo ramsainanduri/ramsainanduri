@@ -39,8 +39,3 @@
 </p>
 
 ---
----
-
-### 🏆 Achievements
-<!-- Uncomment if needed -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsainanduri&theme=radical" alt="Trophy" /></a> </p> -->

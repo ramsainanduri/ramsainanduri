@@ -22,7 +22,7 @@ I am a bioinformatics developer based in Lund, Sweden. I work with genomic data 
 
 My work involves examining patterns in DNA and RNA sequencing data, assessing their technical and biological plausibility, and developing methods to make the analysis more reliable. I am particularly interested in cancer genomics, variant interpretation, quality control, and the validation of computational approaches.
 
-I also develop the software needed to support this work—from reproducible analysis workflows to applications that help researchers and clinical teams explore, review, and report genomic findings. This means moving regularly between biological questions, computational methods, and software engineering.
+I also develop the software needed to support this work from reproducible analysis workflows to applications that help researchers and clinical teams explore, review, and report genomic findings. This means moving regularly between biological questions, computational methods, and software engineering.
 
 ### Areas I work in
 

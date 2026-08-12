@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Ram Nanduri</h1>
 <p align="center">
-  Bioinformatics developer working at the intersection of genomics, clinical diagnostics, and software engineering.
+  Bioinformatics developer working with genomics, clinical diagnostics, and research software.
 </p>
 
 <p align="center">
@@ -18,40 +18,39 @@
 
 ### About me
 
-I am a bioinformatics developer based in Lund, Sweden. My work focuses on translating genomic data into reliable and interpretable results, particularly in cancer genomics and clinical sequencing.
+I am a bioinformatics developer based in Lund, Sweden. I work with genomic data to study disease-related variation and help translate sequencing results into evidence that can be interpreted and used in a clinical setting.
 
-I develop and maintain analysis workflows for DNA and RNA sequencing, including variant analysis, quality control, pipeline validation, and clinical reporting. I also build software that helps scientists and clinical teams review complex genomic results more efficiently.
+My work involves examining patterns in DNA and RNA sequencing data, assessing their technical and biological plausibility, and developing methods to make the analysis more reliable. I am particularly interested in cancer genomics, variant interpretation, quality control, and the validation of computational approaches.
 
-Beyond the biological analysis, I enjoy solving the engineering problems around it: designing reproducible workflows, building web applications and APIs, working with databases, improving tests, and making research software easier to deploy and maintain.
+I also develop the software needed to support this work—from reproducible analysis workflows to applications that help researchers and clinical teams explore, review, and report genomic findings. This means moving regularly between biological questions, computational methods, and software engineering.
 
-Most of my recent contributions involve:
+### Areas I work in
 
-- Clinical bioinformatics workflows and validation
-- Variant interpretation and reporting applications
-- Full-stack tools for genomic data analysis
-- Reproducible pipeline and infrastructure development
+- Cancer genomics and clinical sequencing
+- DNA and RNA variant analysis
+- Variant interpretation and reporting
+- Workflow development and validation
+- Research and clinical software development
 
-### Technologies
+### Technical work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,mongodb,redis,docker,linux,git,bash&perline=10" alt="Technologies I use">
-</p>
-
-I work primarily with Python and workflow languages, with TypeScript and React for user-facing applications. Nextflow, Snakemake, containers, Linux, and HPC systems form an important part of my day-to-day development environment.
+I primarily use **Python** for analysis and backend development, and **Nextflow** or **Snakemake** for reproducible workflows. For user-facing applications, I work with **TypeScript and React**. My development environment also includes databases, containers, Linux, HPC systems, testing, and CI/CD.
 
 ---
 
-### GitHub stats
+### GitHub activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ramsainanduri&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ramsainanduri&show_icons=true&hide_border=true&include_all_commits=true&theme=default">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ramsainanduri&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" alt="Ram's GitHub statistics, including stars and contributions">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img height="175" src="./profile/stats-light.svg" alt="GitHub statistics showing stars, commits, pull requests, issues, and contributions">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsainanduri&layout=compact&hide_border=true&langs_count=8&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsainanduri&layout=compact&hide_border=true&langs_count=8&theme=default">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsainanduri&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Most-used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/languages-light.svg">
+    <img height="175" src="./profile/languages-light.svg" alt="Most-used languages across public repositories">
   </picture>
 </p>
+
+<sub>Statistics are generated from public GitHub activity and refreshed automatically.</sub>

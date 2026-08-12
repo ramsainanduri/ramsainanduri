@@ -1,5 +1,7 @@
 name: Update profile statistics
 
+# Cards are generated locally to avoid public API rate limits.
+
 on:
   push:
     branches: [main]
